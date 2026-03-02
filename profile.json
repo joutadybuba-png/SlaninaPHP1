@@ -1,0 +1,15 @@
+{
+  "name": "Tvoje jméno",
+  "skills": [
+    "HTML",
+    "CSS",
+    "Základy PHP",
+    "Git & GitHub"
+  ],
+  "interests": [
+    "Silový trénink",
+    "Kulturistika",
+    "Powerlifting",
+    "Sportovní fyziologie"
+  ]
+}
